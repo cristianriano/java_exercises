@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-// Returns true is a word is Palindrome if you change just one letter
+// Return true if all characters in a String are unique
 public class hasUniqueCharacters{
 
   public static void main(String... args){

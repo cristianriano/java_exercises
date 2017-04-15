@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-// Returns true is a word is Palindrome if you change just one letter
+// Without using a buffer evaluate if one word is an anagram of another
 public class Anagrams{
 
   public static void main(String... args){

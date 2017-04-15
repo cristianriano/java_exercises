@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-// Returns true is a word is Palindrome if you change just one letter
+// Remove repeted characters in a String
 public class RepeatCharacters{
 
   public static void main(String... args){
